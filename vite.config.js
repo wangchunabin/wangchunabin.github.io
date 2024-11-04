@@ -15,6 +15,6 @@ export default defineConfig({
   },
   base: './',
   build:{
-    outDir: 'Vue3_MyBlog',
+    // outDir: 'Vue3_MyBlog',
   },
 })
